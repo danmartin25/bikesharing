@@ -57,5 +57,7 @@ This map shows us where the bikes are being rented, and how many in each area.
 These visualizations are key to understanding the big picture of expanding the citi-bike program to other cities. I would argue that data from other cities needs to be looked at, particularly the same exact visualizations we just did. Comparing New York to other cities needs to be looked at closely due to the fact that New York is unlike any other city on Earth because of many factors including its vast diversity. Other cities, like Des Moines, may not be similar enough to extrapolate these results. If we had data from more cities, the visualization possibilities are almost limitless. In particular, I would recommend box and whisker plots measuring trip time and each plot would be a city, and I would recommend a heatmap by hour with a filter for citites. I am curious to see if there would be a difference or if "The City that Never Sleeps" does not apply to bikesharing.
 
 
+## Tableau Links
 link to Tableau Dashboard: https://public.tableau.com/app/profile/daniel.martin2859
+
 link to Tableau Challenge Assignment: https://public.tableau.com/app/profile/daniel.martin2859/viz/Module14ChallengeAssignment/BikesharingAnalysis
